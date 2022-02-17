@@ -1,4 +1,4 @@
-# 3u-practice-ps1
+# 3u-ps1
 
 Create a file called **change.py** and upload it to this repository. In that file, write a program that asks the user for 5 inputs: pennies, nickles, dimes, quarters and loonies and outputs the total value of money in dollars.
 
