@@ -42,8 +42,7 @@ They say Im oldfashioned and live in the past but somethimes I think progress pr
 ```
 ---
 
-Create a file called **midpoint.py** and upload it to this repository. In that file, write a program that takes in 4 inputs x1, y1, x2, y2 where (x1, y1) represents 
-one point and (x2, y2) represents another point. Output the midpoint of the two points. (The x value of the midpoint is the average of the x values and the y value of the midpoint is the average of the y values.)
+Create a file called **midpoint.py** and upload it to this repository. In that file, write a program that takes in 4 integer inputs x1, y1, x2, y2 where (x1, y1) represents one point and (x2, y2) represents another point. Output the midpoint of the two points. (The x value of the midpoint is the average of the x values and the y value of the midpoint is the average of the y values.)
 
 **Sample Input 1**
 ```
