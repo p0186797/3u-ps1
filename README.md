@@ -27,6 +27,7 @@ Create a file called **change.py** and upload it to this repository. In that fil
  ```
  $7.15
  ```
+---
 
 Create a file called **punctuation.py** and upload it to this repositoty. In that file, write a program that asks the user for a sentence and removes all punctuation in that sentence: exclamation mark (!), period (.), comma (,), question mark (?), semi-colon (;), hyphen (-), apostrophe ('), quotation marks (").
 
@@ -38,5 +39,22 @@ Create a file called **punctuation.py** and upload it to this repositoty. In tha
 **Sample Output 1**
 ```
 They say Im oldfashioned and live in the past but somethimes I think progress progresses too fast  Dr Seuss
+```
+---
+
+Create a file called **midpoint.py** and upload it to this repository. In that file, write a program that takes in 4 inputs x1, y1, x2, y2 where (x1, y1) represents 
+one point and (x2, y2) represents another point. Output the midpoint of the two points. (The x value of the midpoint is the average of the x values and the y value of the midpoint is the average of the y values.)
+
+**Sample Input 1**
+```
+4
+-5
+7
+8
+```
+
+**Sample Ouput 1**
+```
+(5.5, 1.5)
 ```
 
