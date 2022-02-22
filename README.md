@@ -1,6 +1,6 @@
 # 3u-ps1
 
-Create a file called **hide.py** and upload it to this repository. In that file, write a program that asks the user for their 12 digit credit card number and outputs the number with all the digits but the last four replaced with *.
+Create a file called **hide.py** and upload it to this repository. In that file, write a program that asks the user for their **16 digit** credit card number and outputs the number with all the digits but the last four replaced with *.
 
 **Sample Input 1**
 ```
